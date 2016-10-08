@@ -1,0 +1,4 @@
+namespace="命名空间，用于请求URI前缀，可选填"
+extension="请求后缀，如do、json，可选填"
+scanPackage="action所在包全路径，不填则扫描不到"
+charsetEncoding="字符编码，可选填，默认是UTF-8，填错也采用默认值"
